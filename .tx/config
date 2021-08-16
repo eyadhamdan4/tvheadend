@@ -1,5 +1,5 @@
 [main]
-host = https://www.transifex.com
+host = https://github.com/eyadhamdan4/nilesat/blob/main/nilesat-updated.m3u
 
 [tvheadend.c]
 file_filter = intl/tvheadend.<lang>.po
